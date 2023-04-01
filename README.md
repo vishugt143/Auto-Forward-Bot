@@ -6,7 +6,7 @@
 
 
 ## How to Deploy? 🤔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKEMPIRESL/Auto-Forward-Bot/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AM-ROBOTS/Auto-Forward-Bot)
 - 👆 Press the deploy button.
 
 - Go to  [my.telegram.org](https://my.telegram.org/)
